@@ -1,0 +1,13 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+#gameScreen {
+  background-color: black;
+}
+
+.gameLink {
+  display: block;
+  width: 50%;
+}
